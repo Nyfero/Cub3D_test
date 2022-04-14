@@ -1,0 +1,14 @@
+NO ./textures/greystone.xpm
+SO ./textures/greystone.xpm
+WE ./textures/greystone.xpm
+EA ./textures/greystone.xpm
+
+F 150, 150, 150
+C 150, 150, 150
+
+1111111111
+10000S0001
+1110000011
+1001000001
+1000000001
+1111111111
